@@ -33,7 +33,7 @@ The findings from the evaluation reveal that **ItihashQA** emerged as the top pe
 
 *Table I: Performance Comparison across Models*
 
-![Performance Graph](link_to_performance_image.png)
+![Performance Graph](assets/Screenshot.png)
 
 ---
 
