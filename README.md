@@ -11,14 +11,6 @@ By utilizing open-source LLM and external data sources, ItihashQA advances beyon
 
 ---
 
-## Methodology
-
-**[Insert detailed explanation of methodology here. Consider breaking down specific components, e.g., dataset preparation, model architecture, prompt engineering, etc.]**
-
-![Methodology Diagram](link_to_your_image.png)
-
----
-
 ## Results
 
 The findings from the evaluation reveal that **ItihashQA** emerged as the top performer, achieving the highest score in easy, medium, and hard questions, with an overall accuracy of **92.00%**. Here’s a comparison with other models:
@@ -33,7 +25,6 @@ The findings from the evaluation reveal that **ItihashQA** emerged as the top pe
 
 *Table I: Performance Comparison across Models*
 
-![Performance Graph](assets/Screenshot.png)
 
 ---
 
@@ -55,10 +46,6 @@ Maintaining a lower parameter count, our model offers a practical, cost-effectiv
 | BARD          | 137B parameters       |
 | ItihashQA     | 13B parameters        |
 | Vicuna-13B    | 13B parameters        |
-
-![Accuracy Graph](link_to_accuracy_graph_image.png)
-
----
 
 ## Conclusion
 
