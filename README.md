@@ -40,12 +40,13 @@ Maintaining a lower parameter count, our model offers a practical, cost-effectiv
 
 ### Figures
 
-| Table II: Model Parameters Comparison |
-|---------------------------------------|
-| ChatGPT       | 175B parameters       |
-| BARD          | 137B parameters       |
-| ItihashQA     | 13B parameters        |
-| Vicuna-13B    | 13B parameters        |
+| Model         | Parameters           |
+|---------------|----------------------|
+| ChatGPT       | 175B parameters      |
+| BARD          | 137B parameters      |
+| ItihashQA     | 13B parameters       |
+| Vicuna-13B    | 13B parameters       |
+
 
 ## Conclusion
 
