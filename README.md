@@ -23,7 +23,7 @@ By utilizing open-source LLM and external data sources, ItihashQA advances beyon
 
 The following diagram illustrates the overall workflow of the ItihashQA system:
 
-![Workflow Diagram](./workflow.png){ width=60% }
+![Workflow Diagram](./workflow.png)
 
 ---
 
