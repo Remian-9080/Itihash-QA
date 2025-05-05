@@ -1,5 +1,14 @@
 # Towards Accurate AI-Driven Historical QA: A Retrieval-Augmented Model for Bangladeshi History
 
+## Authors
+
+**Mohammed Rakibul Hasan***, Md Shawmoon Azad, Arabindu Das Himu, Raiyan Rahman  
+**Supervisor**: Sifat Momen  
+(*First author)  
+*(2024). Towards Accurate AI-Driven Historical QA: A Retrieval-Augmented Model for Bangladeshi History. [To be submitted]*
+
+---
+
 ## Abstract
 Recent advances in large language models (LLMs) have significantly enhanced their ability to perform question-answering tasks. However, these models face challenges such as hallucinations, misinformation, and inconsistencies, particularly when applied to domains with limited training data. For sensitive topics like history, it is crucial to develop LLM systems that are both reliable and accurate. While fine-tuning LLMs on diverse datasets can improve domain-specific performance, this approach is often resource-intensive and costly.
 
@@ -8,6 +17,14 @@ In this project, we introduce **ItihashQA**, a publicly available, conversationa
 We conducted an extensive evaluation of ItihashQA against other LLMs, including ChatGPT, Vicuna, and Koala. This evaluation involved extensive human assessments of questions of varying complexity levels. Responses were rated on a Likert scale from 1 to 5, with ItihashQA consistently demonstrating high accuracy across all difficulty levels. The results indicate that ItihashQA provides accurate and high-quality answers.
 
 By utilizing open-source LLM and external data sources, ItihashQA advances beyond existing RAG and QA models by combining a highly targeted, verified dataset with resource-efficient yet powerful model architecture and sophisticated prompt engineering, a level of specificity that general RAG systems might lack.
+
+---
+
+## Workflow
+
+The following diagram illustrates the overall workflow of the ItihashQA system:
+
+![Workflow Diagram](./workflow.png){ width=60% }
 
 ---
 
@@ -24,7 +41,6 @@ The findings from the evaluation reveal that **ItihashQA** emerged as the top pe
 | Llama        | 3.20       | 3.10         | 3.25       | 60.33%          |
 
 *Table I: Performance Comparison across Models*
-
 
 ---
 
@@ -47,6 +63,7 @@ Maintaining a lower parameter count, our model offers a practical, cost-effectiv
 | ItihashQA     | 13B parameters       |
 | Vicuna-13B    | 13B parameters       |
 
+---
 
 ## Conclusion
 
@@ -58,8 +75,3 @@ The scalability and adaptability of ItihashQA suggest significant potential for 
 - [1] Stable Vicuna LLM Documentation
 - [2] Evaluation Metrics and Likert Scale
 - [3] Previous Work in RAG and QA Models
-
----
-
-> **Note**: Replace the image links with the actual URLs for the images you'd like to include.
-
