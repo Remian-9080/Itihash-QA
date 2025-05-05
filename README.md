@@ -2,9 +2,9 @@
 
 ## Authors
 
-**Mohammed Rakibul Hasan***, Md Shawmoon Azad, Arabindu Das Himu, Raiyan Rahman  
+***Mohammed Rakibul Hasan***, Md Shawmoon Azad, Arabindu Das Himu, Raiyan Rahman  
 **Supervisor**: Sifat Momen  
-**Towards Accurate AI-Driven Historical QA: A Retrieval-Augmented Model for Bangladeshi History. [To be submitted]**
+*Towards Accurate AI-Driven Historical QA: A Retrieval-Augmented Model for Bangladeshi History. [To be submitted]*
 
 ---
 
