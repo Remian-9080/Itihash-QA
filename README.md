@@ -1,8 +1,8 @@
-# Towards Accurate AI-Driven QA: A Retrieval-Augmented Model for Bangladeshi History
+# Towards Accurate AI-Driven QA: A Retrieval-Augmented Model.
 
 ## Authors
 
-***Mohammed Rakibul Hasan***
+***Mohammed Rakibul Hasan***. Md Shawmoon Azad, Arabindu Das Himu. 
 
 
 ---
@@ -10,7 +10,7 @@
 ## Abstract
 Recent advances in large language models (LLMs) have significantly enhanced their ability to perform question-answering tasks. However, these models face challenges such as hallucinations, misinformation, and inconsistencies, particularly when applied to domains with limited training data. For sensitive topics like history, it is crucial to develop LLM systems that are both reliable and accurate. While fine-tuning LLMs on diverse datasets can improve domain-specific performance, this approach is often resource-intensive and costly.
 
-In this project, we introduce **ItihashQA**, a publicly available, conversational AI-driven retrieval question-answering system specifically trained in the historical context of Bangladesh. Our approach combines the Stable Vicuna LLM with expert-verified historical datasets, enabling the generation of precise and contextually appropriate responses.
+In this project, we introduce **ItihashQA**, a publicly available, conversational AI-driven retrieval question-answering system specifically trained in the historical context. Our approach combines the Stable Vicuna LLM with expert-verified historical datasets, enabling the generation of precise and contextually appropriate responses.
 
 We conducted an extensive evaluation of ItihashQA against other LLMs, including ChatGPT, Vicuna, and Koala. This evaluation involved extensive human assessments of questions of varying complexity levels. Responses were rated on a Likert scale from 1 to 5, with ItihashQA consistently demonstrating high accuracy across all difficulty levels. The results indicate that ItihashQA provides accurate and high-quality answers.
 
