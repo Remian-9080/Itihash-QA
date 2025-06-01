@@ -2,7 +2,7 @@
 
 ## Authors
 
-***Mohammed Rakibul Hasan***. Md Shawmoon Azad, Arabindu Das Himu. 
+***Mohammed Rakibul Hasan***
 
 
 ---
